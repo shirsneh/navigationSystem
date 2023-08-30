@@ -43,17 +43,13 @@ To use this tool, you need to have the following:
 
 #### Room Number 1: 
 
-<div>
-  <img src="![image](https://github.com/shirsneh/navigationSystem/assets/84031027/9e21d587-93ac-40c9-bd37-8ca2754eebeb)" alt="Image 1" width="400" />
-  <img src="![image](https://github.com/shirsneh/navigationSystem/assets/84031027/ed6fe078-f96a-476b-b6ea-94f217cfb34a)" alt="Image 2" width="400" />
-</div>
+![image](https://github.com/shirsneh/navigationSystem/assets/84031027/ed8125c8-17e9-482e-a20d-3c23e5a34e65)
+
 
 #### Room Number 2:
 
-<div>
-  <img src="https://github.com/shirsneh/navigationSystem/raw/main/assets/84031027/7a6abeaf-d61a-4c3b-9b3f-e0b6264608c0.png" alt="Image 1" width="400" />
-  <img src="https://github.com/shirsneh/navigationSystem/raw/main/assets/84031027/934e5d6a-eb05-4409-b3a8-b37eb22fb684.png" alt="Image 2" width="400" />
-</div>
+![image](https://github.com/shirsneh/navigationSystem/assets/84031027/a8a7e517-a7e1-42d4-99e0-6cbcd671ec3e)
+
 
 
 
