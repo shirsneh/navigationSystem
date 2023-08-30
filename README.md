@@ -44,8 +44,8 @@ To use this tool, you need to have the following:
 #### Room Number 1: 
 
 <div>
-  <img src="https://github.com/shirsneh/navigationSystem/raw/main/assets/84031027/13b3c1ac-c2d2-4701-a1ea-696b4c2d7ca0.png" alt="Image 1" width="400" />
-  <img src="https://github.com/shirsneh/navigationSystem/raw/main/assets/84031027/f193ce47-243d-4d94-9eab-2e27b3f51f72.png" alt="Image 2" width="400" />
+  <img src="![image](https://github.com/shirsneh/navigationSystem/assets/84031027/9e21d587-93ac-40c9-bd37-8ca2754eebeb)" alt="Image 1" width="400" />
+  <img src="![image](https://github.com/shirsneh/navigationSystem/assets/84031027/ed6fe078-f96a-476b-b6ea-94f217cfb34a)" alt="Image 2" width="400" />
 </div>
 
 #### Room Number 2:
